@@ -4,7 +4,7 @@ Gêmeos Digitais Hiper-Realistas nos Jogos: Uma Exploração Futurista
 Bem-vindo ao repositório do projeto Gêmeos Digitais Hiper-Realistas nos Jogos! Este projeto foi inspirado por uma comparação postada por Arthur Igreja no LinkedIn, que mostrava a evolução de Buffon, o goleiro do FIFA de 1999 a 2021. Nosso projeto imagina um futuro fascinante em que a tecnologia e os jogos se unem para criar gêmeos digitais hiper-realistas de indivíduos, permitindo que os jogadores participem de partidas online usando suas próprias imagens extremamente realistas.
 
 ## Inspiração
-A inspiração para este projeto veio de uma postagem no perfil do LinkedIn de Arthur Igreja. A comparação da evolução de Buffon no FIFA despertou a ideia de levar os jogos e a personalização a um novo patamar. Começamos a imaginar a possibilidade de integrar tecnologia de reconhecimento facial e criar réplicas digitais dos corpos das pessoas, adicionando uma dimensão totalmente nova aos jogos online.
+A inspiração para este projeto veio de uma postagem no perfil do LinkedIn de Diego Senise. A comparação da evolução de Buffon no FIFA feita por Arthur Igreja despertou a ideia de levar os jogos e a personalização a um novo patamar. Começamos a imaginar a possibilidade de integrar tecnologia de reconhecimento facial e criar réplicas digitais dos corpos das pessoas, adicionando uma dimensão totalmente nova aos jogos online.
 
 ## Visão Geral do Projeto
 Neste repositório, pretendemos explorar o conceito de gêmeos digitais hiper-realistas nos jogos. Vamos mergulhar nos aspectos técnicos do reconhecimento facial, modelagem 3D e renderização em tempo real. Nosso objetivo é criar uma prova de conceito que demonstre o potencial de tal tecnologia nos jogos.
